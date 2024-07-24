@@ -1,6 +1,6 @@
-# first_app
+# dice_roller_app
 
-A new Flutter project.
+A training module for the basics of Flutter and Dart
 
 ## Getting Started
 
